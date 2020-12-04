@@ -1,7 +1,7 @@
 # movie_market_analysis
 An exploration of trends in the film industry
 
-**Authors**: Student1, Student2
+**Author**: Carlos Garza
 
 ## Overview
 
